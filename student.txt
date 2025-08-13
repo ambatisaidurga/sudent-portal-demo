@@ -1,0 +1,5 @@
+name:saidurga
+rollno:03
+suc:2358250220
+email:ambatisaidurga2@gmail.com
+course:bca
